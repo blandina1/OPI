@@ -195,6 +195,16 @@ python3 sns_index.py;
 cd modules/sns_api;
 node api.js;
 ```
+**Pow20 Indexer**
+```bash
+cd modules/pow20_index;
+python3 pow20_index.py;
+```
+**POW20 API**
+```bash
+cd modules/pow20_api;
+node api.js;
+```
 
 # Update
 
